@@ -1,3 +1,5 @@
+Vehicle Manufacturing Plant Layout
+
 1. Factory Floor Layout
 
 The white rectangular area represents the main factory floor where manufacturing activities take place. The layout provides designated spaces for machines, workstations, storage, and material handling.
